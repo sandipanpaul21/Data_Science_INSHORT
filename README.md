@@ -1,6 +1,6 @@
 # Data Science INSHORT
 
-EDA 01 Univariate Analysis
+## EDA 01 Univariate Analysis ##
 
 Uni Means ONE. So Univariate Analysis is One Variable Analysis. Mainly in this part, we will deal with Numerical Measures. So in total we have 14 Numerical Measures
 
