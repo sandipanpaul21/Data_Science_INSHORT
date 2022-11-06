@@ -1,4 +1,4 @@
-# Data_Science_INSHORT
+# Data Science INSHORT
 
 EDA 01 Univariate Analysis
 
