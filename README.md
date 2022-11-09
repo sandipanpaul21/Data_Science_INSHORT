@@ -1,7 +1,6 @@
 # Data Science INSHORT
 
 ## EDA 01 Univariate Analysis ##
-
 Uni Means ONE. So Univariate Analysis is One Variable Analysis. Mainly in this part, we will deal with Numerical Measures. So in total we have 14 Numerical Measures
 
 1. Measure of Central Tendency: 1. Mean 2. Median 3. Mode
@@ -11,3 +10,10 @@ Uni Means ONE. So Univariate Analysis is One Variable Analysis. Mainly in this p
 3. Variation between Variables: 11. Covariance 12. Correlation Coefficient (Pearson and Spearman)
 
 4. Measure Distribution and Peakness : 13. Skewness 14. Kurtosis
+
+## EDA 04 Feature Engineering ##
+
+Feature engineering is the process of selecting, manipulating and transforming raw data into features.
+
+1. First is the Variable Transformation. For example, Log transformation Variable or Square Root transformation Variable. Scaling is also a type of Variable Transformation. For example, Min Max Scaler or Normalization and Standardization.
+2. The Second is Feature Construction. For example, Binning.
