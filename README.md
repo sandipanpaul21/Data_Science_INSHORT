@@ -20,8 +20,6 @@ Feature engineering is the process of selecting, manipulating and transforming r
 
 ### Clustering 01 Distance Metrics ###
 
-Distance Metrics in Machine Learning
-
 1. Euclidean Distance: It represents the shortest distance between two points
 
 2. Manhattan Distance: It is the sum of absolute differences between points across all the dimensions.
