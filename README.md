@@ -17,3 +17,15 @@ Feature engineering is the process of selecting, manipulating and transforming r
 
 1. First is the Variable Transformation. For example, Log transformation Variable or Square Root transformation Variable. Scaling is also a type of Variable Transformation. For example, Min Max Scaler or Normalization and Standardization.
 2. The Second is Feature Construction. For example, Binning.
+
+## Clustering 01 Distance Metrics##
+
+Distance Metrics in Machine Learning
+
+1. Euclidean Distance: It represents the shortest distance between two points
+
+2. Manhattan Distance: It is the sum of absolute differences between points across all the dimensions.
+
+3. Minkowski Distance: Is the generalized form of Euclidean and Manhattan Distance. If P or Lamda = 1, then it calculates Manhatten Distance. If P or Lamda = 2, then it calculates Euclidean Distance. 
+
+4. Hamming Distance: Hamming Distance measures the similarity between two strings of the same length. The Hamming Distance between two strings of the same length is the number of positions at which the corresponding characters are different.
